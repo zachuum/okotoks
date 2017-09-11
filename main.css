@@ -50,6 +50,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	footer {
+		text-align: left;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
